@@ -1,0 +1,1 @@
+Just a simple boiler plate for node my sql
